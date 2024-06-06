@@ -6,7 +6,7 @@
 - 📫 How to reach me **nepal.manjil3294@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/manjil_nepal32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manjil_nepal32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manjil-nepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjil-nepal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23134112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23134112" height="30" width="40" /></a>
