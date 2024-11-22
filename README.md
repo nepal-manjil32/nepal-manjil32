@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **nepal.manjil3294@gmail.com**
 
-- ⚡ A fun fact about me: **I'm deeply into geopolitics and international relations, always staying up to date with current affairs. I often share this information with my friends—sometimes to the point of making them tired of my updates!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nepalmanjil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nepalmanjil" height="30" width="40" /></a>
