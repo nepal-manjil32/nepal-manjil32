@@ -1,1 +1,1 @@
-#### "Exploring deep and federated learning through research—enjoying the journey of innovation and discovery."
+#### "Researching deep and federated learning—basically making AI smarter while hoping it doesn't outsmart me!"
